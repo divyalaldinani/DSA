@@ -1,0 +1,11 @@
+In Java, a stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle. It means that the last element added to the stack is the first one to be removed. You can implement a stack in Java using various approaches, such as using arrays or linked lists.
+
+Basic Operations on Stacks:
+Stack operations usually are performed for initialization, usage and, de-initialization of the stack ADT.
+
+The most fundamental operations in the stack ADT include: push(), pop(), peek(), isFull(), isEmpty(). These are all built-in operations to carry out data manipulation and to check the status of the stack.
+
+Stack uses pointers that always point to the topmost element within the stack, hence called as the top pointer.
+
+Insertion: push()
+push() is an operation that inserts elements into the stack. The following is an algorithm that describes the push() operation in a simpler way.
