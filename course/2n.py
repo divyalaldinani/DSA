@@ -1,0 +1,1 @@
+print("Course deletion successful")
