@@ -1,0 +1,1 @@
+print("Course creation successful")
